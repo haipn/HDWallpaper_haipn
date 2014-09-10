@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.viavilab.hdwallpaper.sticker.SingleFingerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:pushtouch="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tiv"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    pushtouch:centerInParent="true"
+    pushtouch:image="@drawable/crown"
+    pushtouch:image_height="200dp"
+    pushtouch:image_width="200dp"
+    pushtouch:push_image="@drawable/push_btn"
+    pushtouch:push_image_height="30dp"
+    pushtouch:push_image_width="30dp" />

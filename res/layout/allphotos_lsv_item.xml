@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="160dp"
+    android:layout_height="160dp" >
+
+    <ImageView
+        android:background="#ffffff"
+        android:id="@+id/image_category"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:padding="6dp"
+        android:contentDescription="@string/desc"
+        android:src="@drawable/ic_picture" />
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/frame" />
+
+</FrameLayout>
